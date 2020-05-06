@@ -1,1 +1,43 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
 
+#section_header{
+    font-size: 40px;
+}
+
+.camp_image{
+    width: 896px;
+    height: 527px;
+    margin-top: 20px;
+}
+
+.header_button{
+    font-size: 16px;
+    color: aquamarine !important;
+    text-decoration: underline;
+}
+
+.phone{
+    margin-top: 20px;
+}
+
+.phone_icon{
+    margin-top: 20px;
+}
+
+.title{
+    font-size: 50px;
+    color: white;
+}
+
+.text{
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    text-align: center;
+    color: white;
+}
